@@ -1,6 +1,4 @@
-<center>
-    <img src="/Users/imb/2024/ironhack/data_curriculum/ai_assignment/img/logo2.png" width="200" />
-</center>
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 <h1 style="color: #00BFFF;">AI - Module 6 - Vision Models - Introduction to Image Classification using CNNs</h1>
 

@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 
 def conv_simulation(input_size, filter_size, padding, stride):
-    img = Image.open("/Users/imb/2024/ironhack/data_curriculum/ai_assignment/img/cat.png").convert('L')
+    img = Image.open("/Users/imb/2024/ironhack/data_curriculum/ai-computer-vision/img/cat.png").convert('L')
     img = img.resize((input_size, input_size))
     img_array = np.array(img)
 
