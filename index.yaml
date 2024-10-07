@@ -1,0 +1,58 @@
+course:
+  name: "AI-Computer-Vision"
+  number: "Module 6"
+  version: "1.0"
+  chapter:
+    - name: "Week 1 - Introduction to CNNs"
+      sequential:
+        - name: "Day 1"
+          vertical:
+            - name: "[PRESENTATION] Introduction to CNNs"
+              component:
+                - type: html
+                  file: introduction_cnn_pytorch.ipynb
+            - name: "[LAB] Lab | Exploring CNN Basics"
+              component:
+                - type: html
+                  file: labs/lab-experimenting-with-cnn.ipynb
+                - type: deliverable
+                  display_name: "Lab Submission - CNN Basics"
+                  deliverable_identifier: lab-cnn-basics
+                  deliverable_description: Submit the notebook link here.
+                  deliverable_duedate: ''
+                  deliverable_required: true
+                  deliverable_cutscore: 0
+        - name: "Day 2"
+          vertical:
+            - name: "[CLASS_ACTIVITY] Group Discussion: CNN Layers"
+              component:
+                - type: html
+                  file: shared_md/cnn-layer-discussion.md
+            - name: "[LAB] Lab | Convolution and Pooling"
+              component:
+                - type: html
+                  file: labs/lab-convolution-pooling.ipynb
+                - type: deliverable
+                  display_name: "Lab Submission - Convolution & Pooling"
+                  deliverable_identifier: lab-convolution-pooling
+                  deliverable_description: Submit the notebook link here.
+                  deliverable_duedate: ''
+                  deliverable_required: true
+                  deliverable_cutscore: 0
+        - name: "Day 3"
+          vertical:
+            - name: "[RITUAL] Daily Wrap Up"
+              component:
+                - type: html
+                  file: shared_md/daily-wrap-up.md
+            - name: "[EXTRA] Lab | Advanced CNN Architectures"
+              component:
+                - type: html
+                  file: labs/lab-advanced-cnn-architectures.ipynb
+                - type: deliverable
+                  display_name: "Lab Submission - Advanced CNN"
+                  deliverable_identifier: lab-advanced-cnn
+                  deliverable_description: Submit the notebook link here.
+                  deliverable_duedate: ''
+                  deliverable_required: true
+                  deliverable_cutscore: 0
