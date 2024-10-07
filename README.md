@@ -2,7 +2,7 @@
 
 # AI - Module 6 - Vision Models - Introduction to Image Classification using CNNs
 
-Welcome to the another module on the **AI Program**! In this module, we dive into the world of **Convolutional Neural Networks (CNNs)**. This lesson is crafted to help you explore one of the most impactful neural networks in computer vision: the CNN. You'll engage with both the theory and practical aspects, ensuring a **hands-on** learning experience.
+Welcome to another module on the **AI Program**! In this module, we dive into the world of **Convolutional Neural Networks (CNNs)**. This lesson is crafted to help you explore one of the most impactful neural networks in computer vision: the CNN. You'll engage with both the theory and practical aspects, ensuring a **hands-on** learning experience.
 
 ## Module 6 Lessons
 
