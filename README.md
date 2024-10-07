@@ -31,7 +31,7 @@ By the end of this lesson, you will be able to:
 ## 🗂️ Folder Structure:
 
 - **`introduction_cnn_pytorch.ipynb`**: The main lesson notebook where you will dive into CNN theory and implementation.
-- **`widget.py`**: A small widget used in the notebook to experiment with CNN hyperparameters (filter size, padding, stride).
+  - **`widget.py`**: A small widget used in the notebook to experiment with CNN hyperparameters (filter size, padding, stride).
 - **`labs/`**: Includes the following labs for further exploration:
   - **lab-ai-experimenting-with-cnn**: Linked directly to the concepts in `introduction_cnn_pytorch.ipynb`.
   - Each lab includes its own README with instructions for implementation and experimentation.
